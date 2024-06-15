@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57b9ec3885a9bbe5",
+        "id": "5bb9b530d0350913",
         "type": "tabs",
         "children": [
           {
-            "id": "b9772db4fd8f531a",
+            "id": "743f4c629a2d22a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fda2f288db7f042b",
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,9 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9772db4fd8f531a",
+  "active": "743f4c629a2d22a7",
   "lastOpenFiles": [
-    "example.md",
-    "README.md"
+    "README.md",
+    "example.md"
   ]
 }

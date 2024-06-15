@@ -1,6 +1,6 @@
 This folder contains all personal notes related to this project. All files in this folder should be Markdown files with the `.md` extension.
 
-Additionally, it is highly recommended that [Obsidian](https://obsidian.md/) is used to create these files, tag them, and manage them. This means that the `notes` directory should not contain any sub-directories. Instead, all Markdown files should be located under the `notes` directory, with each Markdown file containing a set of tags for more convenient searching.
+Additionally, it is highly recommended that [Obsidian](https://obsidian.md/) is used to create these files, assign tags (or [nested tags](https://help.obsidian.md/Editing+and+formatting/Tags#Nested+tags)) to them, and manage them in other ways. This means that the `notes` directory should not contain any sub-directories. Instead, all Markdown files should be located under the `notes` directory, with each Markdown file containing a set of tags for more convenient searching.
 
 The `.obsidian` directory contains preferences related to the Obsidian graphical user interface, and will be loaded automatically if the current `notes` directory is opened in Obsidian as a vault.
 
