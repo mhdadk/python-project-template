@@ -1,0 +1,3 @@
+This directory contains all Jupyter notebooks related to this project. The `ipykernel` package is automatically installed with this template to allow the use of these Jupyter notebooks. The `hello_world.ipynb` file contains an example notebook.
+
+**NOTE**: if you are using Visual Studio (VS) Code and you would like to run these notebooks from inside it, then you can choose the appropriate IPython kernel by first choosing the Python interpreter associated with the installed environemnt (by pressing `Ctrl + Shift + P` and then clicking on `Python: Select Interpreter`), and then choosing the IPython kernel from the drop-down list on the top-right when a notebook is opened. 

@@ -6,3 +6,5 @@ This folder contains all Python code related to this project. The process of wri
 4. **Scripting**: Finally, given that the idea has been transformed into a well-tested function, this function is used inside a Python script that lives inside a `.py` file under the [`scripts`](scripts/) directory.
 
 This project uses `pytest` by default to run the tests inside the `local_lib/tests` directory. To run these tests, `cd` into the `src` directory (the same directory that this README file is in), optionally run `poetry shell` to activate the environment, and then run `pytest`.
+
+Finally, it is highly recommended that you use the [`ruff` formatter](https://docs.astral.sh/ruff/) when writing Python code. Additionally, the [`ruff` VS Code extension](https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff) is very helpful for automating formatting tasks.
