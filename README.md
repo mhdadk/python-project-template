@@ -1,6 +1,6 @@
 # Template for Python projects
 
-This repository contains a template that I use for personal projects written in Python. For context, these projects are often oriented towards research, especially research which involves the use of different types of data (images, audio, video, csv files, etc.). This template makes use of [Poetry](https://python-poetry.org/) for package management and environment installation.
+This repository contains a template that I use for personal projects written in Python. For context, these projects are often oriented towards research, especially research which involves the use of different types of data (images, audio, video, csv files, etc.). This template makes use of [Poetry](https://python-poetry.org/) for package and environment management.
 
 ## Structure
 
