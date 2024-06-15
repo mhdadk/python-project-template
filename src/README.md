@@ -1,9 +1,8 @@
-This folder contains all personal notes related to this project. All files in this folder should be Markdown files with the `.md` extension.
+This folder contains all Python code related to this project.
 
-Additionally, it is highly recommended that [Obsidian](https://obsidian.md/) is used to create these files, assign tags (or [nested tags](https://help.obsidian.md/Editing+and+formatting/Tags#Nested+tags)) to them, and manage them in other ways. This means that the `notes` directory should not contain any sub-directories. Instead, all Markdown files should be located under the `notes` directory, with each Markdown file containing a set of tags for more convenient searching.
+## `notebooks`
 
-The `.obsidian` directory contains preferences related to the Obsidian graphical user interface, and will be loaded automatically if the current `notes` directory is opened in Obsidian as a vault.
 
-The `example.md` file shows an example Markdown file that was created using Obsidian.
+## `pytest`
 
-All PDF files related to this project should **not** be kept in the `notes` directory. Instead, these PDF files should be stored under an appropriate collection (or subcollection) inside [Zotero](https://www.zotero.org/). Like Obsidian, Zotero allows you to tag PDFs to be able to search and filter through them at different times.
+This project uses `pytest` by default to run the tests inside the `local_lib/tests` directory. To run these tests, `cd` into the `src` directory (the same directory that this README file is contained in), optionally run `poetry shell` to activate the environment, and then run `pytest`.
